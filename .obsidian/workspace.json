@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language to JSON/使用自然语言（非 function calling）实现 Json 化数据的返回.md",
+                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language to JSON/使用自然语言（非 function calling）实现 Json 化数据的返回.md",
+                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language to JSON/使用自然语言（非 function calling）实现 Json 化数据的返回.md",
+                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language to JSON/使用自然语言（非 function calling）实现 Json 化数据的返回.md"
+                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md"
               }
             }
           }
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0593ac0c6ed4d2",
+  "active": "bee4d4429b5d26cf",
   "lastOpenFiles": [
     "Natural Language to JSON/使用自然语言（非 function calling）实现 Json 化数据的返回.md",
     "test.md",
-    "Natural Language to JSON/Untitled.md",
+    "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
     "Natural Language to JSON"
   ]
 }
