@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
+                "file": "Ubuntu 上监控显卡占用.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
+                "file": "Ubuntu 上监控显卡占用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
+                "file": "Ubuntu 上监控显卡占用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md"
+                "file": "Ubuntu 上监控显卡占用.md"
               }
             }
           }
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bee4d4429b5d26cf",
+  "active": "6a0593ac0c6ed4d2",
   "lastOpenFiles": [
     "Natural Language to JSON/使用自然语言（非 function calling）实现 Json 化数据的返回.md",
-    "test.md",
+    "Ubuntu 上监控显卡占用.md",
     "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
     "Natural Language to JSON"
   ]
