@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "29dcf5a6645bdd1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language to JSON/通过强制约束格式来要求返回 json.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -141,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bee4d4429b5d26cf",
+  "active": "29dcf5a6645bdd1e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ubuntu 上监控显卡占用.md",
     "Untitled",
     "Natural Language to JSON/使用自然语言（非 function calling）实现 Json 化数据的返回.md",
     "test.md",
